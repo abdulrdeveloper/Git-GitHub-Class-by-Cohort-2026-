@@ -1,1 +1,1 @@
-# Git-GitHub-Class-by-Cohort-2026-
+# Git-GitHub-Class-by-Cohort-2026
